@@ -10,7 +10,7 @@ Exactly the way egoist writes the code.
 |`let` or `var`|Always `let`|
 |`const` or `let`|`const` if possible|
 |`class` or `prototype`|`class` if possible|
-|`Promise` or `callback`|Always `promise`|
+|`Promise` or `callback`|Always `Promise`|
 |Array function or normal function|Array function if possible|
 
 ## License
