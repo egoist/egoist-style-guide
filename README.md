@@ -12,6 +12,7 @@ Exactly the way egoist writes the code.
 |`class` or `prototype`|`class` if possible|
 |`Promise` or `callback`|Always `Promise`|
 |Array function or normal function|Array function if possible|
+|JSDoc|Always write JSDoc for functions|
 
 ## License
 
