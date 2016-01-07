@@ -14,6 +14,12 @@ Exactly the way egoist writes the code.
 |Array function or normal function|Array function if possible|
 |JSDoc|Always write JSDoc for functions|
 
+## GIT
+
+|Conclusion|
+|---|
+|Use commitizen for commit message|
+
 ## License
 
 MIT &copy; [EGOIST](https://github.com/egoist)
